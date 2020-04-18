@@ -1,0 +1,9 @@
+head {
+ 
+    background color: #3FBF9D;
+    text-align: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 20px;
+
+}
